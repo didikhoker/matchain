@@ -1,1 +1,1 @@
-query_id/user=
+query_id/user=%7B%22id%22%3A6772856365%2C%22first_name%22%3A%22Airdropsspin%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22airdropsspin%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-387777881857072420&chat_type=channel&start_param=c3d9e83dfa56ead970cb464cd027e96c&auth_date=1719447377&hash=72b3d2c2da120f6b9c606094f0c0cf337fe4deec7e67a74367241ad54f15fedd
